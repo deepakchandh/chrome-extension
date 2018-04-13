@@ -1,0 +1,13 @@
+#inputId {
+	padding: 8px;
+}
+/*The Button CSs*/
+#checkPage {
+	padding: 7px;
+	margin-top: 8px;
+	cursor: pointer;
+}
+body {
+	margin-left: 80px;
+	margin-right: 80px;
+}
